@@ -1,0 +1,12 @@
+name: AutoJail
+version: 1.0-SNAPSHOT
+main: me.luanfy.autojail.AutoJail
+api-version: 1.13
+description: Allows you to send a user to jail upon clicking them
+commands:
+  jailwand:
+    usage: /<command>
+    description: Jail someone!
+  revive:
+    usage: /<command>
+    description: Revives a random jailed person!
